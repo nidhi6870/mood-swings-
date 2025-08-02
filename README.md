@@ -1,102 +1,71 @@
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
+# never-works README
 
+This is the README for your extension "never-works". After writing up a brief description, we recommend including the following sections.
 
-# [Project Name] 🎯
+## Features
 
+Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
 
-## Basic Details
-### Team Name: [Name]
+For example if there is an image subfolder under your extension project workspace:
 
+\!\[feature X\]\(images/feature-x.png\)
 
-### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 
-### Project Description
-[2-3 lines about what your project does]
+## Requirements
 
-### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+If you have any requirements or dependencies, add a section describing those and how to install and configure them.
 
-### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+## Extension Settings
 
-## Technical Details
-### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+For example:
 
-### Implementation
-For Software:
-# Installation
-[commands]
+This extension contributes the following settings:
 
-# Run
-[commands]
+* `myExtension.enable`: Enable/disable this extension.
+* `myExtension.thing`: Set to `blah` to do something.
 
-### Project Documentation
-For Software:
+## Known Issues
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+Calling out known issues can help limit users opening duplicate issues against your extension.
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+## Release Notes
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+Users appreciate release notes as you update your extension.
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+### 1.0.0
 
-For Hardware:
+Initial release of ...
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+### 1.0.1
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+Fixed issue #.
 
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+### 1.1.0
 
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+Added features X, Y, and Z.
 
 ---
-Made with ❤️ at TinkerHub Useless Projects 
 
-![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
-![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
+## Following extension guidelines
 
+Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
 
+* [Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)
 
+## Working with Markdown
+
+You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+
+* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
+* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
+* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+
+## For more information
+
+* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
+* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+
+**Enjoy!**
