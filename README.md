@@ -14,7 +14,7 @@
 - Member 3: [parvathy .p] - [LBSITW poojapura thiruvanathapuram]
 
 ### Project Description
-[A totallly useless VS code extension that roast your code every time you type something "too correct".Triggered by HTML,python,or other language tags ,it responds with sacastic or dramatic messages beacuase coding shouldn't always be productive]
+[A totallly useless VS code extension that roast your code every time you type something "too correct".Triggered by HTML,python and  other language tags ,it responds with sacastic or dramatic messages beacuase coding shouldn't always be productive]
 
 ### The Problem (that doesn't exist)
 [Ever feel like your code is getting too clean? this extension solve that non-problem by dectecting code perfection and responding with roasting comments triggered by common tags in HTML,python and some other languages]
@@ -95,6 +95,7 @@ Made with ❤️ at TinkerHub Useless Projects
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
+
 
 
 
